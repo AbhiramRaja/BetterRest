@@ -1,0 +1,130 @@
+{
+  "activityEntities" : [
+    "experimentCreated",
+    [
+      {
+        "createdDate" : "2026-05-02T04:10:33Z",
+        "event" : "experimentCreated",
+        "id" : "03581AAD-14F5-4AFA-A587-26AC35C38292",
+        "subtitle" : "BetterRest 1",
+        "title" : "Model Source Created"
+      }
+    ]
+  ],
+  "contentDataResult" : {
+
+  },
+  "createdDate" : "2026-05-02T04:10:33Z",
+  "evaluationContainerEntity" : {
+    "createdDate" : "2026-05-02T04:10:33Z",
+    "evaluationEntities" : [
+
+    ],
+    "id" : "2ae28da2-450d-4973-8ef8-dddc2f1501cf",
+    "modifiedDate" : "2026-05-02T04:10:33Z",
+    "previewType" : "tabularRegressor",
+    "testingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2026-05-02T04:10:33Z",
+      "dataResult" : {
+
+      },
+      "id" : "d8982b29-d75f-49d2-9c50-85439a241cf2"
+    },
+    "trainingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2026-05-02T04:10:33Z",
+      "dataResult" : {
+
+      },
+      "id" : "f8daadc3-0926-44cb-826b-22361f9ad4cf"
+    },
+    "validationEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2026-05-02T04:10:33Z",
+      "dataResult" : {
+
+      },
+      "id" : "2cf09a47-90ae-42d6-999b-052bb9b5bbdc"
+    }
+  },
+  "evaluationEntity" : {
+    "analysedDataType" : "none",
+    "dataResult" : {
+
+    },
+    "id" : "4d99972a-0715-4f00-b4af-5037f6bf6eda"
+  },
+  "evaluationState" : "uninitialized",
+  "id" : "ABA343B6-C32E-4BDB-8A08-7F0FDF01938B",
+  "modelEntity" : {
+    "createdDate" : "2026-05-02T04:10:33Z",
+    "experimentID" : "ABA343B6-C32E-4BDB-8A08-7F0FDF01938B",
+    "id" : "769D8DE1-1E24-45A2-96B0-20CF6A654768",
+    "modifiedDate" : "2026-05-02T04:10:33Z",
+    "title" : "",
+    "version" : "1.0"
+  },
+  "modifiedDate" : "2026-05-02T04:10:33Z",
+  "preferredFilename" : "BetterRest 1",
+  "settingEntity" : {
+    "algorithmType" : "maxEnt",
+    "augmentations" : [
+
+    ],
+    "featureNames" : [
+
+    ],
+    "generalRegressorType" : {
+      "auto" : {
+
+      }
+    },
+    "handActionClassifierAugmentations" : [
+
+    ],
+    "handPoseClassifierAugmentations" : [
+
+    ],
+    "harVideoAugmentations" : 0,
+    "seedType" : "default",
+    "styleTransferAlgorithmType" : "image",
+    "taskType" : "generalRegresor",
+    "transferLearningEmbeddingType" : "dynamic"
+  },
+  "snapshotRole" : {
+    "withoutSnapshots" : 0
+  },
+  "state" : "uninitialized",
+  "title" : "BetterRest 1",
+  "trainingEntity" : {
+    "analysedDataType" : "choose",
+    "checkpointMetrics" : {
+
+    },
+    "dataResult" : {
+
+    },
+    "featureExtractionCheckpointMayBeAvailable" : false,
+    "progress" : [
+
+    ],
+    "snapshottableCheckpoints" : {
+
+    }
+  },
+  "validationEntity" : {
+    "analysedDataType" : "auto",
+    "dataResult" : {
+
+    },
+    "splitOptions" : {
+      "strategy" : {
+        "automatic" : {
+
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
